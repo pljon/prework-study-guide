@@ -16,17 +16,17 @@ In order to maximize the efficiency of this guide, it would be best to polish ea
 
 Utilize the Chrome DevTools to study a randomly generated topic to focus on, if you don't feel exceptionally weak in a category, through the console panel.
 
-While on the guide, to open the console panel on Google Chrome:
--Right click anywhere on the guide
--Select the last option on the menu "inspect" 
-OR
--For Mac, Command+Option+I 
--For Windows, Control+Shift+I 
-
-After a small window pops up:
--Look towards the top of the window 
--Select the second tab "console"
-
+While on the guide, to open the console panel on Google Chrome: <br />
+-Right click anywhere on the guide <br />
+-Select the last option on the menu "inspect" <br />
+OR <br />
+-For Mac, Command+Option+I <br />
+-For Windows, Control+Shift+I <br />
+<br />
+After a small window pops up: <br />
+-Look towards the top of the window <br />
+-Select the second tab "console" <br />
+<br />
 There it will populate the topics involved in the prework with the last log being a randomly selected topic to study.
 
 ## Credits
